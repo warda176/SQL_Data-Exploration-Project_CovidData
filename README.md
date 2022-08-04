@@ -3,6 +3,8 @@
 I Explored covid dataset containing data of infections, deaths and vaccination information due to covid from 2020 to 2021 consisting of 210 countries of the world.
 And performed data visulaization for the results of queries performed in Microsoft SQL Server.
 
+Data Exploration is being done using SQL on MS SQL Server and data visualizzation is being performed on Microsoft Power BI.
+
 Exploration and Analysis answered the folllowing questions:
 
 1. Death count globally?
